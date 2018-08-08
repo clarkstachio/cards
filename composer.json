@@ -1,0 +1,17 @@
+{
+  "name": "clarkstachio/cards",
+  "description": "Deck of Cards",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Michael Clark",
+      "email": "michael@clarkstachio.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Clarkstachio\\Cards\\": "src/"
+    }
+  }
+}
